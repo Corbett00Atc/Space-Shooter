@@ -1,0 +1,109 @@
+Initialize engine version: 5.4.2f1 (94e3a60ee258)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GPU (ID=0x134b)
+    Vendor:   NVIDIA
+    VRAM:     996 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Unity Projects\Space Shooter\Builds\_Final\Space_Shooter_Final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Unity Projects\Space Shooter\Builds\_Final\Space_Shooter_Final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Space Shooter\Builds\_Final\Space_Shooter_Final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Unity Projects\Space Shooter\Builds\_Final\Space_Shooter_Final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Space Shooter\Builds\_Final\Space_Shooter_Final_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Unity Projects\Space Shooter\Builds\_Final\Space_Shooter_Final_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Space Shooter\Builds\_Final\Space_Shooter_Final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Unity Projects\Space Shooter\Builds\_Final\Space_Shooter_Final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Space Shooter\Builds\_Final\Space_Shooter_Final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Unity Projects\Space Shooter\Builds\_Final\Space_Shooter_Final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Space Shooter\Builds\_Final\Space_Shooter_Final_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Unity Projects\Space Shooter\Builds\_Final\Space_Shooter_Final_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.202 seconds
+Platform assembly: C:\Unity Projects\Space Shooter\Builds\_Final\Space_Shooter_Final_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Unity Projects\Space Shooter\Builds\_Final\Space_Shooter_Final_Data\Managed\System.dll (this message is harmless)
+desktop: 3000x2000 60Hz; virtual: 9840x2160 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.779668 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2bac -> priority: 1 
+WARNING: Shader Unsupported: 'HeatDistort' - Pass 'BASE' has no vertex shader
+WARNING: Shader Unsupported: 'HeatDistort' - All passes removed
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.245718 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 0.661149 ms (FindLiveObjects: 0.072934 ms CreateObjectMapping: 0.071110 ms MarkObjects: 0.479908 ms  DeleteObjects: 0.035737 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.820146 ms
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 0.563053 ms (FindLiveObjects: 0.046313 ms CreateObjectMapping: 0.045948 ms MarkObjects: 0.386552 ms  DeleteObjects: 0.082415 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MissileExplosion.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.455839 ms
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 0.244330 ms (FindLiveObjects: 0.024068 ms CreateObjectMapping: 0.017139 ms MarkObjects: 0.165560 ms  DeleteObjects: 0.037196 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.745024 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 0.615565 ms (FindLiveObjects: 0.108307 ms CreateObjectMapping: 0.045583 ms MarkObjects: 0.417549 ms  DeleteObjects: 0.043031 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.932465 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 0.521480 ms (FindLiveObjects: 0.096273 ms CreateObjectMapping: 0.036102 ms MarkObjects: 0.362848 ms  DeleteObjects: 0.024797 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.563053 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 0.274962 ms (FindLiveObjects: 0.035008 ms CreateObjectMapping: 0.021150 ms MarkObjects: 0.212603 ms  DeleteObjects: 0.005470 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.297502 ms
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 0.475896 ms (FindLiveObjects: 0.046677 ms CreateObjectMapping: 0.037196 ms MarkObjects: 0.331486 ms  DeleteObjects: 0.057253 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.471815 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 0.863907 ms (FindLiveObjects: 0.180512 ms CreateObjectMapping: 0.062723 ms MarkObjects: 0.538984 ms  DeleteObjects: 0.079863 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.267234 ms
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 0.529138 ms (FindLiveObjects: 0.071840 ms CreateObjectMapping: 0.036831 ms MarkObjects: 0.327839 ms  DeleteObjects: 0.091167 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.685218 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 0.378529 ms (FindLiveObjects: 0.047407 ms CreateObjectMapping: 0.019327 ms MarkObjects: 0.304500 ms  DeleteObjects: 0.006199 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.596238 ms
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 0.417549 ms (FindLiveObjects: 0.048866 ms CreateObjectMapping: 0.032091 ms MarkObjects: 0.260740 ms  DeleteObjects: 0.074757 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MissileExplosion.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
